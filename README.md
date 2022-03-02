@@ -17,8 +17,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # 📬: Contacts
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=black)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tjdgns33339@gmail.com)](mailto:tjdgns33339@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=black&link=https://www.linkedin.com/in/SeongHoonPak)](https://www.linkedin.com/in/SeongHoonPak)
 
 <!--
 **SeongHoonPak/SeongHoonPak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
