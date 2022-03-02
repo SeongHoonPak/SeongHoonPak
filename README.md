@@ -18,6 +18,7 @@
 
 # 📬: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tjdgns33339@gmail.com)](mailto:tjdgns33339@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:tjdgns7027@naver.com)](mailto:tjdgns7027@naver.com)
 
 <!--
 **SeongHoonPak/SeongHoonPak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
